@@ -18,10 +18,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".CreatePlaylist"></activity>
-        <activity android:name=".NowPlaying"></activity>
-        <activity android:name=".SongDetails"></activity>
-        <activity android:name=".Playlist"></activity>
+        <activity android:name=".CreatePlaylist" android:label="Create Playlist"></activity>
+        <activity android:name=".NowPlaying"
+            android:label="@string/NowPlaying"></activity>
+        <activity android:name=".SongDetails"
+            android:label="Song Details"></activity>
+        <activity android:name=".Playlist"
+            android:label="Play List"></activity>
 
     </application>
    >
