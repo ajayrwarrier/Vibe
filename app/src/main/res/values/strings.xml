@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vibe</string>
+    <string name="NowPlaying">Now Playing !</string>
+    <string name="Details">SONG DETAILS</string>
+    <string name="back">BACK</string>
+    <string name="SongList">Song List!</string>
+    <string name="create">CREATE PLAYLIST</string>
+    <string name="play">PLAY</string>
+    <string name="playlist">PLAYLIST</string>
+    <string name="playplay">PLAY PLAYLIST</string>
+</resources>
