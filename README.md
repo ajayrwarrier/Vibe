@@ -2,8 +2,6 @@
 Music App Structure
 
  
-Description Intended User Features User Interface Mocks Screen 1 Screen 2 Key Considerations How will your app handle data persistence? Describe any corner cases in the UX. Describe any libraries you’ll be using and share your reasoning for including them. Describe how you will implement Google Play Services. Next Steps: Required Tasks Task 1: Project Setup Task 2: Implement UI for Each Activity and Fragment Task 3: Your Next Task Task 4: Your Next Task Task 5: Your Next Task 
- 
  Vibe - Complete Music App 
 
 Description  
@@ -13,8 +11,6 @@ Stylish , Powerful and Fast Music Player with elegant design . Music Player lets
 - Color theme select option 
 - Plays song by folder 
 - Support for Playlist 
-1 
-
 - Android  lock screen playback 
  
 Intended User 
