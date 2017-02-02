@@ -21,42 +21,25 @@ Features
  
 ● Listen to music  ● Create Playlist 
  
-User Interface Mocks These can be created by hand (take a photo of your drawings and insert them in this flow), or using a program like Photoshop or Balsamiq.  Screen 1  
- 
-2  
- 
-Screen 2 
- 
- 
-Widget 
- 
- 
-3 
-Capstone_Stage1 
 Key Considerations 
  
-How will your app handle data persistence?  
+How will the app handle data persistence?  
  
 To show the list of music, the app will query the Android MediaStore​ ​and populate a ListView​ with the obtained ​Cursor​.  
  
-Describe any corner cases in the UX. When the user hits back button from Now Playing screen an intent is passed back to the Home screen which shows the current playing song and also the list of other songs on the device. 
+Describe any corner cases in the UX. 
+When the user hits back button from Now Playing screen an intent is passed back to the Home screen which shows the current playing song and also the list of other songs on the device. 
  
- 
-Describe any libraries you’ll be using and share your reasoning for including them. 
  
 Describe how you will implement Google Play Services. I’ll use Google Analytics to keep monetize my app, to track the no. of users, how they use the app and to analyze how the app is being used. Another Service i’ll be using is AdMob to display ads. 
- 
  
  
 Next Steps: Required Tasks 
  
  
 Task 1: Project Setup 
- 
- 
- 
+  
 ● Choose the libraries and add them to gradle ● Decide the versions of Android the app will support. 
- 
  
 
 Task 2: Implement UI for Each Activity and Fragment 
